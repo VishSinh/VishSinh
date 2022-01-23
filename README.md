@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning Competitive Programming
-- 
+- ⭐ Looking forward to learn about Machine Learning
 
 <h2 align="center">My Experience in tech</h2>
 
