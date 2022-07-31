@@ -20,9 +20,9 @@
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
-<table>
+
 [![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishSinh&count_private=true&theme=tokyonight)](https://github.com/VishSinh/github-readme-stats)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishSinh)](https://github.com/VishSinh/github-readme-stats)
-</table>
+
 
