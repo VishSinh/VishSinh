@@ -1,9 +1,8 @@
 <!--intRO name  -->
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/vishsinh/" target="_blank"> Vishal Sinha </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="code.gif" >
 
-- 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning Competitive Programming
-- ⭐ Looking forward to learn about Machine Learning
+I'm a CS undergrad who has experience in languages like Python, C++, JavaScript, Kotlin and Dart. I've worked with Flutter, and frontend technologies like Bootstrap and Tailwind.
+Apart from these I'm a MERN stack dev and part-time competitive programmer.
 
 <h2 align="center">My Experience in tech</h2>
 
