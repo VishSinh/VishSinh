@@ -21,5 +21,5 @@
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-[![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishSinh)](https://github.com/VishSinh/github-readme-stats)
+[![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishSinh&count_private=true&theme=tokyonight)](https://github.com/VishSinh/github-readme-stats)
 
