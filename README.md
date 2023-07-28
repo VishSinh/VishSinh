@@ -20,5 +20,6 @@ Apart from these I'm a MERN stack dev and part-time competitive programmer.
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishsinh&show_icons=true&locale=en&layout=compact" alt="vishsinh" /></p>
 
 
