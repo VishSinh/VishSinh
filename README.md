@@ -4,7 +4,7 @@
   />
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishSinh&layout=donut&theme=dracula"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishSinh&layout=donut&bg_color=#23074d,#cc5333"/></p>
 
 
 
