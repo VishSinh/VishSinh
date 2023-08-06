@@ -2,7 +2,8 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/vishsinh/" target="_blank"> Vishal Sinha </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="code.gif" >
 
 ![]
-(https://github.com/VishSinh/VishSinh/blob/f84852bf26a7df0aa883b04c4e9e3f8b737861dc/intro.gif)
+(https://raw.githubusercontent.com/VishSinh/VishSinh/VishSinh-patch-1/intro.gif)
+
 
 <h2 align="center">My Experience in tech</h2>
 
