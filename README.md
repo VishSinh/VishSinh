@@ -4,8 +4,7 @@
   />
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishsinh&show_icons=true&locale=en&layout=compact" alt="vishsinh" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishSinh&layout=donut&theme=gradient"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishSinh&layout=donut&gradient"/></p>
 
 
 
