@@ -1,8 +1,14 @@
 <!--intRO name  -->
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/vishsinh/" target="_blank"> Vishal Sinha </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="code.gif" >
 
-I'm a CS undergrad who has experience in languages like Python, C++, JavaScript, Kotlin and Dart. I've worked with Flutter, and frontend technologies like Bootstrap and Tailwind.
-Apart from these I'm a MERN stack dev and part-time competitive programmer.
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFqzZcyjlQ&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFqzZcyjlQ&#x2F;watch?utm_content=DAFqzZcyjlQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">blue bold YouTube intro</a> by Vishal Sinha
 
 <h2 align="center">My Experience in tech</h2>
 
